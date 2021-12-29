@@ -1,0 +1,73 @@
+2021-12-29 15:21:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 15:21:44 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 15:22:32 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 15:23:14 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-12-29 15:23:14 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 15:23:14 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-12-29 15:25:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 15:25:43 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-12-29 15:25:43 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 15:25:43 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-12-29 15:32:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 15:32:47 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-12-29 15:32:47 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 15:32:47 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-12-29 15:49:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 15:50:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 15:50:53 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-12-29 15:50:53 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 15:50:53 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2021-12-29 15:51:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 15:51:42 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started2069143716
+2021-12-29 15:51:43 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 15:51:43 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-12-29 15:53:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 15:54:00 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1468111065
+2021-12-29 15:54:00 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 15:54:00 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-12-29 15:59:23 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 16:00:01 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started833784282
+2021-12-29 16:00:03 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 16:00:03 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-12-29 16:17:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 16:18:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started261935590
+2021-12-29 16:18:35 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 16:18:35 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-12-29 16:35:05 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 16:35:59 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started833784282
+2021-12-29 16:35:59 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 16:35:59 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-12-29 16:47:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 16:47:23 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started459077137
+2021-12-29 16:47:23 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 16:47:23 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-12-29 17:07:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 17:08:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 17:10:22 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1459864059
+2021-12-29 17:10:22 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 17:10:22 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 17:10:47 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started863768292
+2021-12-29 17:10:48 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 17:10:48 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-12-29 17:10:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 17:10:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-12-29 17:41:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 17:41:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 17:41:52 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started81709688
+2021-12-29 17:41:53 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 17:41:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 17:42:26 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started888005223
+2021-12-29 17:42:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 17:42:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-12-29 17:42:28 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 17:42:28 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-12-29 18:00:16 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 18:00:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 18:00:41 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started972598720
+2021-12-29 18:00:41 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 18:00:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-12-29 18:01:04 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started968448640
+2021-12-29 18:01:04 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 18:01:04 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-12-29 18:01:07 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2021-12-29 18:01:07 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
